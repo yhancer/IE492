@@ -1,7 +1,7 @@
 
 ---
 title: "Interesting Forecast Applications with R"
-author: "Yusuf Hançer - IE360 - Srping 2020"
+author: "Yusuf Hancer - IE360 - Spring 2020"
 ---
 
 
