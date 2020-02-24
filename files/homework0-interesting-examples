@@ -1,1 +1,20 @@
 
+---
+title: "Interesting Forecast Applications with R"
+author: "Yusuf Hançer - IE360 - Srping 2020"
+---
+
+
+```{r,echo=FALSE,results="hide"}
+library(knitr)
+opts_chunk$set(tidy.opts=list(width.cutoff=60),tidy=TRUE)
+```
+
+```{r,echo=FALSE,eval=FALSE}
+rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="pdf_document")
+rmarkdown::render("/home/baydogan/Courses/IE360/Guidelines/example_homework_0.Rmd",output_format="html_document")
+```
+
+1. [Autocorrelation and Time Series Methods](https://online.stat.psu.edu/stat462/node/188/)
+
+    This is an example of autoregressive models.
