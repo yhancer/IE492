@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 This project is about forecasting the number of sales of the next day. Trendyol provided past data for that project. Historical recordings of 8 different products were given with their id, date of the event, price, number of products sold, number of visits to the page of the product, number of times that products were put into the basket of the customer, number of times that product was signed as favourite, sales numbers of the category, sales numbers of the category for that brand, visit numbers of the category and visit number of Trendyol. After that, it is required to estimate sales number of the next day for those products. Product definitions are shared in Table 1.
 
-![Table 1. Product Definitions](images/Table1.png)
+![Table 1. Product Definitions](files/tablo.jpeg)
 
 In the project definition, importance of other details such as day of the week or special occasions was specified. With this object, site level data was equipped. Black Friday or similar events are determinable after that. It was announced that in the process of estimating, extraneous goods are also useable. 
 Prepared application programming interface lets this project to be performed as a competition. Everyday submissions are required after having, manipulating and developing  forecast models. Apparently, model is applicable in case of arranging sufficient inventory or service degrees. 
