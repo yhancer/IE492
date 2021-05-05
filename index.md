@@ -1,7 +1,11 @@
-## Yusuf Hançer - Progress Journal
+## Analysis of Simultaneous Arrivals to Multiple Loss Systems
 
-[homework0](files/homework0-interesting-examples.html)
+# M/M/c/c Cost Visual with:
+- Arrival rate = 10
+- Service rate of system 1 = 10
+- Service rate of system 2 = 5
 
-The [project report](files/Group9-ProjectReport.html) is provided with the [script](files/Group9_Project.R)
+- Inventory holding cost = 3
+- Lost sale cost = 10
 
-[Cost](files/Graph.html)
+[3D total cost for different inventory targets](files/Graph.html)
