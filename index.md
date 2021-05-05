@@ -1,5 +1,5 @@
 ### Yusuf Hançer & Deniz Aleyna Akbaşaran & Tümay Kır & Musab Emir Baş
-##Analysis of Simultaneous Arrivals to Multiple Loss Systems
+## Analysis of Simultaneous Arrivals to Multiple Loss Systems
 
 # M/M/c/c Cost Visual with:
 - Arrival rate = 10
