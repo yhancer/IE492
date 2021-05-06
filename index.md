@@ -11,3 +11,4 @@
 
 
 [3D Total Cost for Target Inventory Levels](files/Graph.html)
+[3D Profit for Target Inventory Levels](files/492-Profit.html)
