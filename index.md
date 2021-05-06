@@ -10,4 +10,4 @@
 - Lost sale cost = 4
 
 
-[3D total cost for different inventory targets](files/Graph.html)
+[3D Total Cost for Target Inventory Levels](files/Graph.html)
