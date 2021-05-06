@@ -5,7 +5,9 @@
 - Arrival rate = 10
 - Service rate of system 1 = 10
 - Service rate of system 2 = 5
+- Price = 42
 - Inventory holding cost = 3
-- Lost sale cost = 10
+- Lost sale cost = 4
+
 
 [3D total cost for different inventory targets](files/Graph.html)
