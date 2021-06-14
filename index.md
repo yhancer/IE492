@@ -16,10 +16,10 @@
 
 
 Scripts
-[Precision Control with Confidence Interval](files/finite_confidence_interval.py)
-[Finite Dependent Simulation](files/finite_simulation.py)
-[Finite Dependent Markovian Equation Solution](files/finite_dependent_optimal.m)
-[Finite Independent Markovian Equation Solution](files/finite_dependent_optimal.m)
-[Infinite Dependent Simulation](files/infinite_simulation.py)
-[Infinite Independent with Poisson Distribution using Cost Approach](files/infinite_independent_cost.py) and [Infinite Independent with Poisson Distribution using Equation](files/infinite_independent_equation.py)
-[Finite with Enough Servers to Mimic Infinite Cost Calculation](infinite_cost.m) 
+- [Precision Control with Confidence Interval](files/finite_confidence_interval.py)
+- [Finite Dependent Simulation](files/finite_simulation.py)
+- [Finite Dependent Markovian Equation Solution](files/finite_dependent_optimal.m)
+- [Finite Independent Markovian Equation Solution](files/finite_dependent_optimal.m)
+- [Infinite Dependent Simulation](files/infinite_simulation.py)
+- [Infinite Independent with Poisson Distribution using Cost Approach](files/infinite_independent_cost.py) and [Infinite Independent with Poisson Distribution using Equation](files/infinite_independent_equation.py)
+- [Finite with Enough Servers to Mimic Infinite Cost Calculation](infinite_cost.m) 
