@@ -3,15 +3,25 @@
 
  M/M/c/c Cost Visual with:
 - Arrival rate = 10
+- Service rate of system 1 = 1
+- Service rate of system 2 = 2
+- Inventory holding cost = 1
+- Lost sale cost = 10
+
+- [3D Total Cost for Different Target Inventroy Levels](files/LastGraph.html)
+
+
+
+ M/M/c/c Cost Visual with:
+- Arrival rate = 10
 - Service rate of system 1 = 10
 - Service rate of system 2 = 5
 - Price = 42
 - Inventory holding cost = 3
 - Lost sale cost = 4
 
--[3D Total Cost for Target Inventory Levels](files/Graph.html)
--[3D Profit for Target Inventory Levels](files/492-Profit.html)
-
+- [3D Total Cost for Target Inventory Levels](files/Graph.html)
+- [3D Profit for Target Inventory Levels](files/492-Profit.html)
 
 
 
