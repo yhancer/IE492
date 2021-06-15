@@ -8,7 +8,7 @@
 - Inventory holding cost = 1
 - Lost sale cost = 10
 
-- [3D Total Cost for Different Target Inventroy Levels](files/LastGraph.html)
+- [3D Total Cost for Different Target Inventory Levels](files/LastGraph.html)
 
 
 
