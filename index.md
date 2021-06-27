@@ -33,3 +33,4 @@ Scripts
 - [Infinite Dependent Simulation](files/infinite_simulation.py)
 - [Infinite Independent with Poisson Distribution using Cost Approach](files/infinite_independent_cost.py) and [Infinite Independent with Poisson Distribution using Equation](files/infinite_independent_equation.py)
 - [Finite with Enough Servers to Mimic Infinite Cost Calculation](infinite_cost.m) 
+- [3D Plot](LastGraph.Rmd)
