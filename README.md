@@ -1,3 +1,3 @@
 
 
-[Our Page](https://bu-ie-360.github.io/IE492/)
+[Our Page](https://yhancer.github.io/IE492/)
